@@ -6,9 +6,9 @@
 
 <!-- Experience -->
 <div style="flex: 1; min-width: 300px; text-align: left;">
-    <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33; padding-bottom: 5px;">🔭 Education</h2>
+    <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33; padding-bottom: 5px;">📒 Education</h2>
     <ul style="list-style: none; padding: 0; margin: 10px 0; line-height: 1.6;">
-        <li><strong>Sharda University, Greater Noida</strong> - Data Science 전공 (2022.09 ~ 2025.05)</li>
+        <li><strong>Sharda University, Greater Noida</strong> - Bachelors in Data Science(2022.09 ~ 2025.05)</li>
     </ul>
     <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33; padding-bottom: 5px;">🔭 Experience</h2>
 </div>
@@ -51,8 +51,25 @@
 </div>
 
 <!-- Stats -->
-<div style="text-align: center; margin-top: 20px;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trezarex&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" alt="Top Langs" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Trezarex" alt="Solved.ac Profile" />
-</div
+<h2 style="border-bottom: 1px solid #d8dee4;">🏅 Stats</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trezarex&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
+        height="180"
+        alt="Top Languages"
+      />
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/Trezarex/">
+        <img
+          src="https://leetcard.jacoblin.cool/Trezarex?theme=light&font=Karma"
+          height="180"
+          alt="LeetCode Stats"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
