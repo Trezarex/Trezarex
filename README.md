@@ -10,10 +10,10 @@
 |---------------------|----------------------------------------------------------|
 | 💻 Programming       | Python, JavaScript, C++, SQL                                             |
 | 🖥️ Backend           | FastAPI, Microservices, REST APIs                       |
-| ☁️ Cloud & DevOps    | AWS, Git, Docker                          |
+| ☁️ Cloud & DevOps    | AWS, Git, Docker                                        |
 | 🪒 Data Scraping     | Appium, Selenium, BeautifulSoup                         |
-| 🧠 AI/ML             | Scikit-learn, TensorFlow, Pandas, NumPy                 |
-| 💱 Big Data Tech     | Kafka, PySpark, Hadoop, Postgres, MongoDB, Airflow      |
+| 🧠 AI/ML             | Scikit-learn, Pandas, NumPy                             |
+| 💱 Big Data Tech     | Kafka, PySpark, Hadoop, Postgres, MongoDB               |
 | 📚 CS Fundamentals   | DSA, DBMS, OS, System Design                            |
 
 ---
@@ -21,7 +21,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,mongodb,redis,fastapi,aws,gcp,tensorflow,kafka,docker,git,github,vscode,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,mongodb,redis,fastapi,aws,docker,git,github,vscode,ubuntu&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" height="40" />
 </p>
 
