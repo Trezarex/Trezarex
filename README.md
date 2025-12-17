@@ -30,7 +30,7 @@
   <a href="mailto:aman4code@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="[https://www.linkedin.com/in/trezarex/]">
+  <a href="https://www.linkedin.com/in/trezarex/">
     <img src="https://img.shields.io/badge/LinkedIn-Aman-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
