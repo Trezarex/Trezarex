@@ -39,13 +39,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trezarex&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-        height="180"
-        alt="Top Languages"
-      />
-    </td>
-    <td align="center">
       <a href="https://leetcode.com/Trezarex/">
         <img
           src="https://leetcard.jacoblin.cool/Trezarex?theme=light&font=Karma"
